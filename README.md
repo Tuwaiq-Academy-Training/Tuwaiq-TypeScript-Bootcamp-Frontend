@@ -46,12 +46,12 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week | Day | Lesson | Lap | HomeWork |
 |:----:|:---:|:------:|:---:|:--------:|
 | Week1| 1   |[Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)|[]()|[]()
-| Week1| 2   |[Advanced-CSS-Bootstrap-Lesson](https://github.com/Tuwaiq-Academy-Training/Advanced-CSS-Bootstrap-Lesson)|[]()|[]()
-| Week1| 3   |[]()|[]()|[]()
+| Week1| 2   |[HTML-CSS-Lesson]([Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lesson))|[]()|[]()
+| Week1| 3   |[Advanced-CSS-Bootstrap-Lesson](https://github.com/Tuwaiq-Academy-Training/Advanced-CSS-Bootstrap-Lesson)|[]()|[]()
 | Week1| 4   |[]()|[]()|[]()
 | Week1| 5   |[]()|[]() | []()
 | Week2| 1   |[React-Fundamentals-Lesson](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-Lesson)|[React-Fundamentals-Lab](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-Lab)|[React-Fundamentals-HW](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-HW)
-| Week2| 2   |[HTML-CSS-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lesson)|[]()|[]()
+| Week2| 2   |[]()|[]()|[]()
 | Week2| 3   |[]()|[]()|[]()
 | Week2| 4   |[]()|[]()|[]()
 | Week2| 5   |[]()|[]()|[]()
