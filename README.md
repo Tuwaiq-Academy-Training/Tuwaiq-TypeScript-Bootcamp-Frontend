@@ -57,7 +57,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week2| 5   |[TypeScript-Lesson](https://github.com/Tuwaiq-Academy-Training/TypeScript-Lesson/blob/main/README.md)|[]()|[]()
 | Week3| 1   |[React-Fundamentals-Lesson](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-Lesson)|[React-Fundamentals-Lab](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-Lab)|[React-Fundamentals-HW](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-HW)
 | Week3| 2   |[React-Props-ts-Lesson](https://github.com/Masha-Aldossari/React-Props-ts-Lesson/blob/main/README.md)|[]()|[]()
-| Week3| 3   |[]() |[]()|[]()
+| Week3| 3   |[React-Styling-Routing-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Styling-Routing-Lesson) |[]()|[]()
 | Week3| 4   |[]() |[]() |[]()
 | Week3| 5   |[]()|[ ]() |[]()
 | Week4| 1   |[]()  |[]()  |[]()
