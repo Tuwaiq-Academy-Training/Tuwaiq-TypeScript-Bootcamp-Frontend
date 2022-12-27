@@ -54,7 +54,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week2| 2   |[Git&Github]()|[]()|[]()
 | Week2| 3   |[Git&Github]()|[]()|[]()
 | Week2| 4   |[]()|[]()|[]()
-| Week2| 5   |[]()|[]()|[]()
+| Week2| 5   |[TypeScript-Lesson](https://github.com/Tuwaiq-Academy-Training/TypeScript-Lesson/blob/main/README.md)|[]()|[]()
 | Week3| 1   |[React-Fundamentals-Lesson](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-Lesson)|[React-Fundamentals-Lab](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-Lab)|[React-Fundamentals-HW](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-HW)
 | Week3| 2   |[]()|[]()|[]()
 | Week3| 3   |[]() |[]()|[]()
