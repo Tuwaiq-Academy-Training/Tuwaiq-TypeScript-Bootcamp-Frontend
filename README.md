@@ -45,7 +45,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 
 | Week | Day | Lesson | Lap | HomeWork |
 |:----:|:---:|:------:|:---:|:--------:|
-| Week1| 1   |[]()|[]()|[]()
+| Week1| 1   |[Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)|[]()|[]()
 | Week1| 2   |[]()|[]()|[]()
 | Week1| 3   |[]()|[]()|[]()
 | Week1| 4   |[]()|[]()|[]()
