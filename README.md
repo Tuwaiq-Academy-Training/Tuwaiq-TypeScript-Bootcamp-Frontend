@@ -61,7 +61,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week3| 4   |[React-Routing-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Styling-Routing-Lesson) |[]() |[]()
 | Week3| 5   |[React hooks with TypeScript](https://github.com/Tuwaiq-Academy-Training/React-hooks-with-TypeScript/blob/main/README.md)|[ ]() |[]()
 | Week4| 1   |[React hooks with TypeScript](https://github.com/Tuwaiq-Academy-Training/React-hooks-with-TypeScript/blob/main/README.md)  |[]()  |[]()
-| Week4| 2   |[CRUD]()  |[]()  |[]()
+| Week4| 2   |[CRUD](https://github.com/Tuwaiq-Academy-Training/APY-Lesson-TypeScript/blob/main/README.md)  |[]()  |[]()
 | Week4| 3   |[CRUD]()|[]() |[]()
 | Week4| 4   |[]() |[]() |[]()
 | Week4| 5   |[]()  |[]()  |[]()
