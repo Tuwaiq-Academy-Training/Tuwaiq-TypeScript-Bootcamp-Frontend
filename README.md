@@ -48,7 +48,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week1| 1   |[Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)|[]()|[]()
 | Week1| 2   |[HTML-CSS-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lesson)|[HTML-CSS-Lab](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Leb)|[]()
 | Week1| 3   |[Advanced-CSS-Bootstrap-Lesson](https://github.com/Tuwaiq-Academy-Training/Advanced-CSS-Bootstrap-Lesson)|[Advanced-CSS-Bootstrap-Lab](https://github.com/Tuwaiq-Academy-Training/Advanced-CSS_Bootstrap-Lab/blob/main/README.md)|[]()
-| Week1| 4   |[JavaScript-Fundamentals-Lesson](https://github.com/Tuwaiq-Academy-Training/JavaScript-Fundamentals-Lesson)|[]()|[]()
+| Week1| 4   |[JavaScript-Fundamentals-Lesson](https://github.com/Tuwaiq-Academy-Training/JavaScript-Fundamentals-Lesson)|[JavaScript-Fundamentals-Lab](https://github.com/Tuwaiq-Academy-Training/JavaScript-Fundamentals_Lab)|[]()
 | Week1| 5   |[Advanced-JavaScript-Lesson](https://github.com/Tuwaiq-Academy-Training/Advanced-JavaScript-Lesson)|[]() | []()
 | Week2| 1   |[Git&Github]()|[]()|[]()
 | Week2| 2   |[Git&Github]()|[]()|[]()
