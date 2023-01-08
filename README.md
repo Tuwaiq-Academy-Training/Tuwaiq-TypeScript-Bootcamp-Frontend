@@ -57,7 +57,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week2| 5   |[TypeScript-Lesson](https://github.com/Tuwaiq-Academy-Training/TypeScript-Lesson/blob/main/README.md)|[TypeScript-Lab](https://github.com/Tuwaiq-Academy-Training/TypeScript-Lab)|[]()
 | Week3| 1   |[React-Fundamentals-Lesson](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-Lesson)|[React-Fundamentals-Lab](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-Lab)|[React-Fundamentals-HW](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-HW)
 | Week3| 2   |[React-Props-ts-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Props-ts-Lesson/blob/main/README.md)|[]()|[]()
-| Week3| 3   |[Chakra-Ui-Lesson](https://github.com/Tuwaiq-Academy-Training/Chakra-ui-Lesson) |[]()|[]()
+| Week3| 3   |[Chakra-Ui-Lesson](https://github.com/Tuwaiq-Academy-Training/Chakra-ui-Lesson) |[Chakra-Ui-Lab](https://github.com/Tuwaiq-Academy-Training/ChakraUI-Lab/blob/main/README.md)|[]()
 | Week3| 4   |[React-Routing-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Styling-Routing-Lesson) |[]() |[]()
 | Week3| 5   |[React hooks with TypeScript](https://github.com/Tuwaiq-Academy-Training/React-hooks-with-TypeScript/blob/main/README.md)|[ ]() |[]()
 | Week4| 1   |[React hooks with TypeScript](https://github.com/Tuwaiq-Academy-Training/React-hooks-with-TypeScript/blob/main/README.md)  |[]()  |[]()
